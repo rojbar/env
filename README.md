@@ -1,4 +1,4 @@
-# env
+# env [![Go Reference](https://pkg.go.dev/badge/github.com/rojbar/env.svg)](https://pkg.go.dev/github.com/rojbar/env)
 
 package env provides functions for conveniently accessing environment variables.
 
