@@ -2,8 +2,9 @@
 
 package env provides functions for conveniently accessing environment variables.
 
+## Installation
+`go get github.com/rojbar/env/v2`
 ## Supported types
-
 - `string`
 - `bool`
 - `int`
