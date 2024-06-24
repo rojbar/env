@@ -1,4 +1,4 @@
-# env [![Go Reference](https://pkg.go.dev/badge/github.com/rojbar/env.svg)](https://pkg.go.dev/github.com/rojbar/env) ![build](https://github.com/rojbar/env/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/github/rojbar/env/graph/badge.svg?token=CEZVN7838T)](https://codecov.io/github/rojbar/env)
+# env [![Go Reference](https://pkg.go.dev/badge/github.com/rojbar/env/v2.svg)](https://pkg.go.dev/github.com/rojbar/env/v2) ![build](https://github.com/rojbar/env/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/github/rojbar/env/graph/badge.svg?token=CEZVN7838T)](https://codecov.io/github/rojbar/env)
 
 package env provides functions for conveniently accessing environment variables.
 
